@@ -4,4 +4,4 @@
 * Lumen Themes
 *Notice that Lumen themes is still in very heavy development*
 
-Another Emacs theme.
+Just another Emacs theme.
